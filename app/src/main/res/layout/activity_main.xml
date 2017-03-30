@@ -16,12 +16,6 @@
         android:scaleType="fitXY"
         app:srcCompat="@drawable/healthy_food_0" />
 
-    <Button
-        android:id="@+id/pressme"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Press this" />
-
     <TextView
         android:id="@+id/quoteLabel"
         android:layout_width="match_parent"
